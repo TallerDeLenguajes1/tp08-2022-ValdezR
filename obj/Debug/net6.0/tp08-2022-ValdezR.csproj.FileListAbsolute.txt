@@ -1,0 +1,15 @@
+C:\Taller1\TP08\tp08-2022-ValdezR\bin\Debug\net6.0\tp08-2022-ValdezR.exe
+C:\Taller1\TP08\tp08-2022-ValdezR\bin\Debug\net6.0\tp08-2022-ValdezR.deps.json
+C:\Taller1\TP08\tp08-2022-ValdezR\bin\Debug\net6.0\tp08-2022-ValdezR.runtimeconfig.json
+C:\Taller1\TP08\tp08-2022-ValdezR\bin\Debug\net6.0\tp08-2022-ValdezR.dll
+C:\Taller1\TP08\tp08-2022-ValdezR\bin\Debug\net6.0\tp08-2022-ValdezR.pdb
+C:\Taller1\TP08\tp08-2022-ValdezR\obj\Debug\net6.0\tp08-2022-ValdezR.csproj.AssemblyReference.cache
+C:\Taller1\TP08\tp08-2022-ValdezR\obj\Debug\net6.0\tp08-2022-ValdezR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Taller1\TP08\tp08-2022-ValdezR\obj\Debug\net6.0\tp08-2022-ValdezR.AssemblyInfoInputs.cache
+C:\Taller1\TP08\tp08-2022-ValdezR\obj\Debug\net6.0\tp08-2022-ValdezR.AssemblyInfo.cs
+C:\Taller1\TP08\tp08-2022-ValdezR\obj\Debug\net6.0\tp08-2022-ValdezR.csproj.CoreCompileInputs.cache
+C:\Taller1\TP08\tp08-2022-ValdezR\obj\Debug\net6.0\tp08-2022-ValdezR.dll
+C:\Taller1\TP08\tp08-2022-ValdezR\obj\Debug\net6.0\refint\tp08-2022-ValdezR.dll
+C:\Taller1\TP08\tp08-2022-ValdezR\obj\Debug\net6.0\tp08-2022-ValdezR.pdb
+C:\Taller1\TP08\tp08-2022-ValdezR\obj\Debug\net6.0\tp08-2022-ValdezR.genruntimeconfig.cache
+C:\Taller1\TP08\tp08-2022-ValdezR\obj\Debug\net6.0\ref\tp08-2022-ValdezR.dll
